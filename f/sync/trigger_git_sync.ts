@@ -12,5 +12,5 @@ export async function main(
   a: number,
 ) {
   // let x = await wmill.getVariable('u/user/foo')
-  return { bar11611111111: a };
+  return { bar116111a111111: a };
 }
